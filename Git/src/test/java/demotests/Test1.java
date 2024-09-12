@@ -13,9 +13,5 @@ public void method1() {
 		
 		System.out.println("Test1 method2 ");
 	}
-	
-public void method3() {
-		
-		System.out.println("Test1 method3 ");
-	}
+
 }
