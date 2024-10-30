@@ -1,6 +1,6 @@
 package demotests;
 
-public class Test2 {
+public class TestCase2 {
 	public void method1() {
 		
 		System.out.println("Test2 print1 ");
